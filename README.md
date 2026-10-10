@@ -69,5 +69,5 @@ An interactive sales dashboard built in Microsoft Excel that analyzes revenue, p
 
 ## 👤 Author
 
-**Dr. Sharaz Ahmed**
+**Muhammad Awais**
 Feel free to connect on LinkedIn and share your feedback!
